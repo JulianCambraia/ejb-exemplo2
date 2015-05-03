@@ -8,5 +8,9 @@
         <dependent-module archiveName="calculadoraremotaClient.jar" deploy-path="/" handle="module:/resource/calculadoraremotaClient/calculadoraremotaClient">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="calculadoraRemotaWeb.war" deploy-path="/" handle="module:/resource/calculadoraRemotaWeb/calculadoraRemotaWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

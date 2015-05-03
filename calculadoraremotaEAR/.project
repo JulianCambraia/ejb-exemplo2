@@ -5,6 +5,7 @@
 	<projects>
 		<project>calculadoraremota</project>
 		<project>calculadoraremotaClient</project>
+		<project>calculadoraRemotaWeb</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
